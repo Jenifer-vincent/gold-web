@@ -1,0 +1,226 @@
+[2026-07-21 20:06:48,931] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:07:00,196] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:07:27,309] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:11:08,377] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:12:03,244] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:14:19,902] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:14:22,840] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:14:26,019] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:21:06,042] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:28:15,596] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:28:32,887] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 20:28:41,736] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:03:26,081] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:03:48,252] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:03:48,996] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:13:40,483] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:13:53,063] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:16:19,183] INFO [root] - Root endpoint hit
+[2026-07-21 21:21:26,456] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:21:29,033] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:21:30,953] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:23:04,797] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:23:06,141] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:23:08,096] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:32:06,079] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:32:07,307] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:32:11,249] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-07-21 21:32:16,566] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "G:\anaconda\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-08-02 14:43:57,668] INFO [root] - Root endpoint hit
+[2026-08-02 14:43:57,688] WARNING [passlib.handlers.bcrypt] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+[2026-08-02 14:43:57,695] ERROR [app.api.auth] - Error during user login
+Traceback (most recent call last):
+  File "C:\Users\Junia\Downloads\SJK\SJK-gold-forecasting-dashboard-main\backend\app\api\auth.py", line 61, in login
+    user = auth_service.create_user(
+        db,
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\Junia\Downloads\SJK\SJK-gold-forecasting-dashboard-main\backend\app\services\auth_service.py", line 39, in create_user
+    hashed_pw = get_password_hash(user.password)
+  File "C:\Users\Junia\Downloads\SJK\SJK-gold-forecasting-dashboard-main\backend\app\services\auth_service.py", line 16, in get_password_hash
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Junia\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+[2026-08-02 15:17:06,209] INFO [root] - Root endpoint hit
+[2026-08-02 15:31:53,662] INFO [root] - Root endpoint hit
